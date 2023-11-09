@@ -1,0 +1,5 @@
+ITEM,SENTENCE,CHOICE1,CHOICE2,TYPE
+101,"As declarações foram criadas por Davi.",choice1,choice2,item
+102,"As declarações foram criadas por Davi.",choice1,choice2,item
+501,"Marta estava almoçando as crianças.",choice1,choice2,filler
+502,"Ricardo estava jantando as crianças.",choice1,choice2,filler
